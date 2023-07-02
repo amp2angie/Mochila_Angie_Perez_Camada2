@@ -1,0 +1,5 @@
+Direccion IP publica 127.0.0.1
+direccion IP privada: 255.0.0.0
+Direccion MAC: 08:00:27:01:68:20
+Si las direccion IP publica es diferente a la privada, ya que cumplen propositos diferentes, la primera la asigna la red publica y la segunda la red local
+
