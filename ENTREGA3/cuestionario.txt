@@ -1,0 +1,7 @@
+1. porque un lenguaje de programacion solo puede usarse en un sustema operativo y en otro no? 
+rta: porque algunos estan diseñados especificamente para ciertos sistema, ya q	ue dependen de bibliotecas especiales, y tambien depende si el lenguje es compilado o interpretado 
+2.que tipo de maquina virtual es virtual box? 
+rta: es una maquina virtual tipo 2 
+3. si tengo mas de una maquina virtual instalada y una se rompe, esta afecta a las demas y porque? 
+rta: No, si una se rompe no afecta a las demas ya que cada maquina virtual esta aislada del resto. 
+
