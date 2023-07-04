@@ -1,0 +1,16 @@
+cd morver de carpeta
+nano abrir un editor de texto 
+touch crear un archivo 
+git init iniciar repositorio local 
+git branch crear rama 
+git checkout moverse de rama 
+git pull descargar archivos 
+git push subir archivos 
+git clone clona repositorio 
+mv renombrar 
+cp copiar archivos 
+is help 
+git status ver como estan mis archivos
+rm borrar archivos 
+rm dir borrar carpetas 
+
