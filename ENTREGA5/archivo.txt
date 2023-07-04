@@ -1,0 +1,12 @@
+ventajas telnet: es un protocolo simple, no necesita muchos recursos y es compatible con muchos dispositivos 
+Desventajas  telnet: como es un texto sin cifrar es muy facil acceder a la informacion (muy poca seguridad) y no maneja grandes volumenes de informacion 
+
+ventajas de ssh: como esta cifrad, es muy segura y es ampliamente compatible
+desventajas de SSH: es un poco mas dificil de entender y necesita mas recursos y ancho de banda para poder realizar las tareas
+
+diferencias 
+- Telnet envia datos sin cifrar - ssh envia datos cifrados lo que ofrece mejor seguridad
+- telnet utiliza puerto 23 y ssh 22 
+- ssh es mas utilizado que telnet
+
+
